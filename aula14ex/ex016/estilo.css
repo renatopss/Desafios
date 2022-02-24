@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(121, 21, 189);
+    font: normal 15pt arial;
+
+}
+
+header{
+    color: blanchedalmond;
+    text-align: center;
+
+}
+input[type=button] {
+    background: rgb(118, 17, 138);
+    border-color: rgb(61, 155, 218);
+    color: rgb(61, 155, 218);
+}
+section{
+    background-color: blanchedalmond;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.432);
+}
+footer {
+    color: blanchedalmond;
+    text-align: center;
+    font-style: italic;
+
+}
